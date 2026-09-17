@@ -6,9 +6,16 @@ Project stages are based on the current repository source and published homepage
 
 ### Live
 
+- **[mywebsite](https://joshiujjwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. [Source](https://github.com/joshiujjwal/mywebsite)
+- **Stepwins** — `Live` · Private, offline goal planning with time-boxed steps. Available in TestFlight; contact me for a demo.
+- **[Toolbook](https://joshiujjwal.github.io/toolbook)** — `Live` · See the software a public company uses by department, with confirmed and inferred data tagging. [Source](https://github.com/joshiujjwal/toolbook)
+- **[YTChannelTrust](https://ytchanneltrust.vercel.app/)** — `Live` · YouTube-channel trust score and reviews. [Source](https://github.com/joshiujjwal/ytchanneltrust)
+- **[VerifyU](https://verifyu-jade.vercel.app/)** — `Live` · Human identity verification with one-time codes. [Source](https://github.com/joshiujjwal/verifyu)
+- **[Placard](https://placard-liart.vercel.app/)** — `Live` · AI-powered virtual closet with personalized outfit suggestions. [Source](https://github.com/joshiujjwal/placard)
+- **[YourNxtWatch](https://yournxtwatch.vercel.app/)** — `Live` · Swipe through movies with friends and decide what to watch next. [Source](https://github.com/joshiujjwal/yournxtwatch)
+- **[mcu-graph](https://github.com/joshiujjwal/mcu-graph)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams, and powers.
+- **[podcast-guest-graph](https://github.com/joshiujjwal/podcast-guest-graph)** — `Live` · Interactive graph of podcast guest and host appearances across shows.
 - **[AgenticTrading](https://github.com/joshiujjwal/AgenticTrading)** — `Live` · Forked project.
-- **[mcu-graph](https://github.com/joshiujjwal/mcu-graph)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams and powers. Next.js 16 + TypeScript + Canvas.
-- **[podcast-guest-graph](https://github.com/joshiujjwal/podcast-guest-graph)** — `Live` · Interactive graph of podcast guest/host appearances across shows
 
 ### Prototype
 
@@ -27,17 +34,13 @@ Project stages are based on the current repository source and published homepage
 - **[myfintrack](https://github.com/joshiujjwal/myfintrack)** — `Prototype` · No repository description provided.
 - **[oned](https://github.com/joshiujjwal/oned)** — `Prototype` · No repository description provided.
 - **[own-prompt-enhancer](https://github.com/joshiujjwal/own-prompt-enhancer)** — `Prototype` · SLM layer to improve prompts before passing to larger LLMs
-- **[placard](https://github.com/joshiujjwal/placard)** — `Prototype` · No repository description provided.
 - **[playbot](https://github.com/joshiujjwal/playbot)** — `Prototype` · No repository description provided.
 - **[solutions_leetcode](https://github.com/joshiujjwal/solutions_leetcode)** — `Prototype` · Leetcode Problem Solutions
 - **[stepwise](https://github.com/joshiujjwal/stepwise)** — `Prototype` · On-device AI task coordinator (Flutter + Gemma): breaks goals into time-boxed, human-executed micro-tasks with approval-gated state, focus timer, and trends.
 - **[tripCabShareMode](https://github.com/joshiujjwal/tripCabShareMode)** — `Prototype` · No repository description provided.
 - **[Twttrnds](https://github.com/joshiujjwal/Twttrnds)** — `Prototype` · Get latest Twitter Trends and visualize it's results via Google Map & d3.js. Added markers on Google map to show top 10 places for Twitter Trends. Extract tweets for nearest/closest trending place to point where maker on Google Map is dragged. Depict d3.js chart to show the number of locations that Twitter has trending topic information for in respective countries. Return suggestions and relevant tweets on top trends.
-- **[verifyu](https://github.com/joshiujjwal/verifyu)** — `Prototype` · No repository description provided.
 - **[voiceui](https://github.com/joshiujjwal/voiceui)** — `Prototype` · 🎙️ Voice AI to UI design — speak your UI, get live React component previews
 - **[YourNextWatch](https://github.com/joshiujjwal/YourNextWatch)** — `Prototype` · No repository description provided.
-- **[yournxtwatch](https://github.com/joshiujjwal/yournxtwatch)** — `Prototype` · yournextwatch is the swipe-and-play party game that helps friends pick a movie without the drama — just laughs, swipes, and instant watch picks.
-- **[ytchanneltrust](https://github.com/joshiujjwal/ytchanneltrust)** — `Prototype` · No repository description provided.
 
 ### Design
 
@@ -50,11 +53,9 @@ Project stages are based on the current repository source and published homepage
 - **[drawARExpress](https://github.com/joshiujjwal/drawARExpress)** — `Design` · No repository description provided.
 - **[financial-data-mcp](https://github.com/joshiujjwal/financial-data-mcp)** — `Design` · AI agent that queries real-time and historical financial data via the Financial Datasets MCP server
 - **[IntegratedImageSearch](https://github.com/joshiujjwal/IntegratedImageSearch)** — `Design` · A Google Extension that enables you to search images from various search engines like Flickr , Getty , Bing. Get relevant images for a topic from different search portals with just one click. Explore wide range of images from Bing/Flickr/Getty Use of Javascript to filter the best customized results.
-- **[mywebsite](https://github.com/joshiujjwal/mywebsite)** — `Design` · No repository description provided.
 - **[netflix-character-game](https://github.com/joshiujjwal/netflix-character-game)** — `Design` · Interactive trivia/guessing game featuring characters from popular movies and TV shows — AI-generated questions, adaptive difficulty, TMDB content
 - **[simnearby](https://github.com/joshiujjwal/simnearby)** — `Design` · Record a city video and generate interactive 3D what-if urban planning scenarios with VR
 - **[social-researcher](https://github.com/joshiujjwal/social-researcher)** — `Design` · Research tool that aggregates and synthesizes responses, discussions, and opinions on any topic across social channels (Reddit, Twitter/X, LinkedIn, HackerNews)
-- **[toolbook](https://github.com/joshiujjwal/toolbook)** — `Design` · Toolbook — type a public company, see the software it uses by department. Single-file app; Confirmed/Inferred data tagging.
 - **[transit-tracker](https://github.com/joshiujjwal/transit-tracker)** — `Design` · Vercel-hosted live transit display (NJ Transit, PATH, MTA, Amtrak) with TV/kiosk mode and Raspberry Pi LED map
 - **[vibeinfra](https://github.com/joshiujjwal/vibeinfra)** — `Design` · Agentic multi-cloud deployment composer: bring any code, get it deployed reliably with deny-by-default policy guardrails
 
