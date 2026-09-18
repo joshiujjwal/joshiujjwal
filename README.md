@@ -10,14 +10,14 @@ Project stages are based on the current repository source and published homepage
 - **[drawAR](https://draw-ar.vercel.app)** — `Live` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawAR)
 - **[drawARExpress](https://draw-ar-express.vercel.app)** — `Live` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawARExpress)
 - **[mcu-graph](https://mcu-graph.vercel.app)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams, and powers. · [Code](https://github.com/joshiujjwal/mcu-graph)
-- **[mywebsite](https://joshiujwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. [Source](https://github.com/joshiujjwal/mywebsite) · [Code](https://github.com/joshiujjwal/mywebsite)
-- **[Placard](https://placard-liart.vercel.app/)** — `Live` · AI-powered virtual closet with personalized outfit suggestions. [Source](https://github.com/joshiujjwal/placard) · [Code](https://github.com/joshiujjwal/placard)
+- **[mywebsite](https://joshiujwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. · [Code](https://github.com/joshiujjwal/mywebsite)
+- **[Placard](https://placard-liart.vercel.app/)** — `Live` · AI-powered virtual closet with personalized outfit suggestions. · [Code](https://github.com/joshiujjwal/placard)
 - **[podcast-guest-graph](https://podcast-guest-graph.vercel.app)** — `Live` · Interactive graph of podcast guest and host appearances across shows. · [Code](https://github.com/joshiujjwal/podcast-guest-graph)
 - **Stepwins** — `Live` · Private, offline goal planning with time-boxed steps. Available in TestFlight; contact me for a demo. · [Code](https://github.com/joshiujjwal/stepwise)
-- **[Toolbook](https://joshiujwal.github.io/toolbook)** — `Live` · See the software a public company uses by department, with confirmed and inferred data tagging. [Source](https://github.com/joshiujjwal/toolbook) · [Code](https://github.com/joshiujjwal/toolbook)
-- **[VerifyU](https://verifyu-jade.vercel.app/)** — `Live` · Human identity verification with one-time codes. [Source](https://github.com/joshiujjwal/verifyu) · [Code](https://github.com/joshiujjwal/verifyu)
-- **[YourNxtWatch](https://yournxtwatch.vercel.app/)** — `Live` · Swipe through movies with friends and decide what to watch next. [Source](https://github.com/joshiujjwal/yournxtwatch) · [Code](https://github.com/joshiujjwal/yournxtwatch)
-- **[YTChannelTrust](https://ytchanneltrust.vercel.app/)** — `Live` · YouTube-channel trust score and reviews. [Source](https://github.com/joshiujjwal/ytchanneltrust) · [Code](https://github.com/joshiujjwal/ytchanneltrust)
+- **[Toolbook](https://joshiujwal.github.io/toolbook)** — `Live` · See the software a public company uses by department, with confirmed and inferred data tagging. · [Code](https://github.com/joshiujjwal/toolbook)
+- **[VerifyU](https://verifyu-jade.vercel.app/)** — `Live` · Human identity verification with one-time codes. · [Code](https://github.com/joshiujjwal/verifyu)
+- **[YourNxtWatch](https://yournxtwatch.vercel.app/)** — `Live` · Swipe through movies with friends and decide what to watch next. · [Code](https://github.com/joshiujjwal/yournxtwatch)
+- **[YTChannelTrust](https://ytchanneltrust.vercel.app/)** — `Live` · YouTube-channel trust score and reviews. · [Code](https://github.com/joshiujjwal/ytchanneltrust)
 
 ### Prototype
 
