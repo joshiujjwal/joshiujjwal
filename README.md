@@ -45,7 +45,6 @@ Project stages are based on the current repository source and published homepage
 - **autoshorts** — `Design` · Auto-generate short clips from YouTube videos using emotion and knowledge density scoring · [Code](https://github.com/joshiujjwal/autoshorts)
 - **devstack** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/devstack)
 - **DigitalAILabIndia** — `Design` · Digital AI Lab for India — AI research and experimentation platform for Indian languages, datasets, and model fine-tuning · [Code](https://github.com/joshiujjwal/DigitalAILabIndia)
-- **IntegratedImageSearch** — `Design` · A Google Extension that enables you to search images from various search engines like Flickr , Getty , Bing. Get relevant images for a topic from different search portals with just one click. Explore wide range of images from Bing/Flickr/Getty Use of Javascript to filter the best customized results. · [Code](https://github.com/joshiujjwal/IntegratedImageSearch)
 - **netflix-character-game** — `Design` · Interactive trivia/guessing game featuring characters from popular movies and TV shows — AI-generated questions, adaptive difficulty, TMDB content · [Code](https://github.com/joshiujjwal/netflix-character-game)
 - **simnearby** — `Design` · Record a city video and generate interactive 3D what-if urban planning scenarios with VR · [Code](https://github.com/joshiujjwal/simnearby)
 - **social-researcher** — `Design` · Research tool that aggregates and synthesizes responses, discussions, and opinions on any topic across social channels (Reddit, Twitter/X, LinkedIn, HackerNews) · [Code](https://github.com/joshiujjwal/social-researcher)
@@ -84,6 +83,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **IntegratedImageSearch** — `Archived` · A Google Extension that enables you to search images from various search engines like Flickr , Getty , Bing. Get relevant images for a topic from different search portals with just one click. Explore wide range of images from Bing/Flickr/Getty Use of Javascript to filter the best customized results. · [Code](https://github.com/joshiujjwal/IntegratedImageSearch)
 
 - **HelpingHand** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/HelpingHand)
 
