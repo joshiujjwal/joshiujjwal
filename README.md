@@ -6,7 +6,6 @@ Project stages are based on the current repository source and published homepage
 
 ### Live
 
-- **[AgenticTrading](https://finagent-orchestration.readthedocs.io/en/latest/)** — `Live` · Forked project. · [Code](https://github.com/joshiujjwal/AgenticTrading)
 - **[mcu-graph](https://mcu-graph.vercel.app)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams, and powers. · [Code](https://github.com/joshiujjwal/mcu-graph)
 - **[mywebsite](https://joshiujwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. · [Code](https://github.com/joshiujjwal/mywebsite)
 - **[Placard](https://placard-liart.vercel.app/)** — `Live` · AI-powered virtual closet with personalized outfit suggestions. · [Code](https://github.com/joshiujjwal/placard)
