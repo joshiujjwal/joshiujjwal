@@ -91,4 +91,6 @@ Project stages are based on the current repository source and published homepage
 
 ### Archived
 
+- **ai-chat-to-kanban** — `Archived` · Turn AI chat exports into reviewed ideas on GitHub Projects. · [Code](https://github.com/joshiujjwal/ai-chat-to-kanban)
+
 - **2Bnot2B** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/2Bnot2B)
