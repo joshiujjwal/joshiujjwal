@@ -65,13 +65,9 @@ Project stages are based on the current repository source and published homepage
 
 - **Twttrnds** — `Archived` · Get latest Twitter Trends and visualize it's results via Google Map & d3.js. Added markers on Google map to show top 10 places for Twitter Trends. Extract tweets for nearest/closest trending place to point where maker on Google Map is dragged. Depict d3.js chart to show the number of locations that Twitter has trending topic information for in respective countries. Return suggestions and relevant tweets on top trends. · [Code](https://github.com/joshiujjwal/Twttrnds)
 
-- **feature-blocks** — `Archived` · Drag-and-drop UI builder for composing landing page / marketing feature sections visually · [Code](https://github.com/joshiujjwal/feature-blocks)
 
-- **YourNextWatch** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/YourNextWatch)
 
-- **voiceui** — `Archived` · 🎙️ Voice AI to UI design — speak your UI, get live React component previews · [Code](https://github.com/joshiujjwal/voiceui)
 
-- **voice-code** — `Archived` · Voice-driven coding assistant — dictate function names, logic, or architecture descriptions and get generated code output · [Code](https://github.com/joshiujjwal/voice-code)
 
 - **tripCabShareMode** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/tripCabShareMode)
 
@@ -87,11 +83,9 @@ Project stages are based on the current repository source and published homepage
 
 - **simnearby** — `Archived` · Record a city video and generate interactive 3D what-if urban planning scenarios with VR · [Code](https://github.com/joshiujjwal/simnearby)
 
-- **prompt-version-history** — `Archived` · Git-like version control for AI prompts and their LLM responses · [Code](https://github.com/joshiujjwal/prompt-version-history)
 
 - **pitch2pm** — `Archived` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
 
-- **own-prompt-enhancer** — `Archived` · SLM layer to improve prompts before passing to larger LLMs · [Code](https://github.com/joshiujjwal/own-prompt-enhancer)
 
 - **one-pager-research** — `Archived` · AI-powered tool that generates clean, structured one-page research summaries from any topic, paper, URL, or document via GPT-4o · [Code](https://github.com/joshiujjwal/one-pager-research)
 
@@ -111,8 +105,6 @@ Project stages are based on the current repository source and published homepage
 
 - **cli-setup-mastery** — `Archived` · AI-assisted coding workflow research and idea2proj project-scaffolding agent.
 
-- **apis-for-llm** — `Archived` · Unified API gateway/abstraction layer for LLM providers (OpenAI, Anthropic, Gemini) with routing, rate limiting, and cost tracking · [Code](https://github.com/joshiujjwal/apis-for-llm)
 
-- **ai-chat-to-kanban** — `Archived` · Turn AI chat exports into reviewed ideas on GitHub Projects. · [Code](https://github.com/joshiujjwal/ai-chat-to-kanban)
 
 - **2Bnot2B** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/2Bnot2B)
