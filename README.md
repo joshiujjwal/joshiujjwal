@@ -27,7 +27,6 @@ Project stages are based on the current repository source and published homepage
 - **EventsCuratorAI** — `Prototype` · Aggregates events from Eventbrite, Meetup & more — uses GPT-4o to curate personalized recommendations based on user interests, location, and social graph · [Code](https://github.com/joshiujjwal/EventsCuratorAI)
 - **harami-parrots** — `Prototype` · Teen harami toton ka society pe sarcastic nazar. Research-driven satirical Hinglish podcast. · [Code](https://github.com/joshiujjwal/harami-parrots)
 - **installforge** — `Prototype` · A marketplace of curated install recipes + a skill-agent that installs and verifies any product on any device. · [Code](https://github.com/joshiujjwal/installforge)
-- **lab37hw** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/lab37hw)
 - **myfintrack** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/myfintrack)
 - **oned** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/oned)
 - **own-prompt-enhancer** — `Prototype` · SLM layer to improve prompts before passing to larger LLMs · [Code](https://github.com/joshiujjwal/own-prompt-enhancer)
@@ -83,6 +82,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **lab37hw** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/lab37hw)
 
 - **IntegratedImageSearch** — `Archived` · A Google Extension that enables you to search images from various search engines like Flickr , Getty , Bing. Get relevant images for a topic from different search portals with just one click. Explore wide range of images from Bing/Flickr/Getty Use of Javascript to filter the best customized results. · [Code](https://github.com/joshiujjwal/IntegratedImageSearch)
 
