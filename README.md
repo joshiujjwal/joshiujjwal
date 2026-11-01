@@ -65,7 +65,6 @@ Project stages are based on the current repository source and published homepage
 - **feature-blocks** — `Idea` · Drag-and-drop UI builder for composing landing page / marketing feature sections visually · [Code](https://github.com/joshiujjwal/feature-blocks)
 - **fintrack** — `Idea` · Personal finance tracking app — connect bank accounts, categorize transactions with AI, track budgets, and get GPT-4o-powered financial insights · [Code](https://github.com/joshiujjwal/fintrack)
 - **grocTrac** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/grocTrac)
-- **one-pager-research** — `Idea` · AI-powered tool that generates clean, structured one-page research summaries from any topic, paper, URL, or document via GPT-4o · [Code](https://github.com/joshiujjwal/one-pager-research)
 - **optionstrat** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/optionstrat)
 - **phxai** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/phxai)
 - **pitch2pm** — `Idea` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
@@ -81,6 +80,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **one-pager-research** — `Archived` · AI-powered tool that generates clean, structured one-page research summaries from any topic, paper, URL, or document via GPT-4o · [Code](https://github.com/joshiujjwal/one-pager-research)
 
 - **mini-games-learning** — `Archived` · AI-powered mini games platform for educational learning — GPT-4o generates quizzes, word puzzles, matching games, flashcards, and true/false blitzes from any topic · [Code](https://github.com/joshiujjwal/mini-games-learning)
 
