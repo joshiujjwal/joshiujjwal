@@ -44,7 +44,6 @@ Project stages are based on the current repository source and published homepage
 
 ### Design
 
-- **2Bnot2B** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/2Bnot2B)
 - **agent-experiment-infra** — `Design` · Azure VM experiment lab (Bicep + cloud-init) for running Nous Hermes via Ollama and the OpenClaw agent framework · [Code](https://github.com/joshiujjwal/agent-experiment-infra)
 - **arthlabs** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/arthlabs)
 - **autoshorts** — `Design` · Auto-generate short clips from YouTube videos using emotion and knowledge density scoring · [Code](https://github.com/joshiujjwal/autoshorts)
@@ -89,3 +88,7 @@ Project stages are based on the current repository source and published homepage
 - **survey-duplicates** — `Idea` · AI persona for surveys — train your personal AI profile that takes surveys on your behalf, consistent with your values and preferences. · [Code](https://github.com/joshiujjwal/survey-duplicates)
 - **voice-code** — `Idea` · Voice-driven coding assistant — dictate function names, logic, or architecture descriptions and get generated code output · [Code](https://github.com/joshiujjwal/voice-code)
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
+
+### Archived
+
+- **2Bnot2B** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/2Bnot2B)
