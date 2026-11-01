@@ -42,7 +42,6 @@ Project stages are based on the current repository source and published homepage
 - **devstack** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/devstack)
 - **DigitalAILabIndia** — `Design` · Digital AI Lab for India — AI research and experimentation platform for Indian languages, datasets, and model fine-tuning · [Code](https://github.com/joshiujjwal/DigitalAILabIndia)
 - **netflix-character-game** — `Design` · Interactive trivia/guessing game featuring characters from popular movies and TV shows — AI-generated questions, adaptive difficulty, TMDB content · [Code](https://github.com/joshiujjwal/netflix-character-game)
-- **transit-tracker** — `Design` · Vercel-hosted live transit display (NJ Transit, PATH, MTA, Amtrak) with TV/kiosk mode and Raspberry Pi LED map · [Code](https://github.com/joshiujjwal/transit-tracker)
 - **vibeinfra** — `Design` · Agentic multi-cloud deployment composer: bring any code, get it deployed reliably with deny-by-default policy guardrails · [Code](https://github.com/joshiujjwal/vibeinfra)
 
 ### Idea
@@ -70,6 +69,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **transit-tracker** — `Archived` · Vercel-hosted live transit display (NJ Transit, PATH, MTA, Amtrak) with TV/kiosk mode and Raspberry Pi LED map · [Code](https://github.com/joshiujjwal/transit-tracker)
 
 - **survey-duplicates** — `Archived` · AI persona for surveys — train your personal AI profile that takes surveys on your behalf, consistent with your values and preferences. · [Code](https://github.com/joshiujjwal/survey-duplicates)
 
