@@ -87,6 +87,8 @@ Project stages are based on the current repository source and published homepage
 
 ### Archived
 
+- **fde-sf** — `Archived` · Documentation-only Salesforce FDE preparation pack.
+
 - **[drawARExpress](https://draw-ar-express.vercel.app)** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawARExpress)
 
 - **[drawAR](https://draw-ar.vercel.app)** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawAR)
