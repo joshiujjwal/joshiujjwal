@@ -7,7 +7,6 @@ Project stages are based on the current repository source and published homepage
 ### Live
 
 - **[AgenticTrading](https://finagent-orchestration.readthedocs.io/en/latest/)** — `Live` · Forked project. · [Code](https://github.com/joshiujjwal/AgenticTrading)
-- **[drawAR](https://draw-ar.vercel.app)** — `Live` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawAR)
 - **[drawARExpress](https://draw-ar-express.vercel.app)** — `Live` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawARExpress)
 - **[mcu-graph](https://mcu-graph.vercel.app)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams, and powers. · [Code](https://github.com/joshiujjwal/mcu-graph)
 - **[mywebsite](https://joshiujwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. · [Code](https://github.com/joshiujjwal/mywebsite)
@@ -88,6 +87,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **[drawAR](https://draw-ar.vercel.app)** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawAR)
 
 - **cli-setup-mastery** — `Archived` · AI-assisted coding workflow research and idea2proj project-scaffolding agent.
 
