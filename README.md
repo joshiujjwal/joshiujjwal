@@ -66,11 +66,12 @@ Project stages are based on the current repository source and published homepage
 - **robo-part-discover** — `Idea` · bolt.new for robotics — describe your robot, get BOM, firmware, wiring diagrams, and software stack · [Code](https://github.com/joshiujjwal/robo-part-discover)
 - **sdlc-skills-plus** — `Idea` · Composable, model-agnostic SDLC skills & agents for Claude Code and GitHub Copilot CLI: grill, domain-model, PRD, issues, TDD, debug, design, prototype, review, security, triage, release. · [Code](https://github.com/joshiujjwal/sdlc-skills-plus)
 - **serious-game-team-dynamics** — `Idea` · Browser-based facilitated workshop tool for surfacing and improving team dynamics through serious game mechanics · [Code](https://github.com/joshiujjwal/serious-game-team-dynamics)
-- **survey-duplicates** — `Idea` · AI persona for surveys — train your personal AI profile that takes surveys on your behalf, consistent with your values and preferences. · [Code](https://github.com/joshiujjwal/survey-duplicates)
 - **voice-code** — `Idea` · Voice-driven coding assistant — dictate function names, logic, or architecture descriptions and get generated code output · [Code](https://github.com/joshiujjwal/voice-code)
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **survey-duplicates** — `Archived` · AI persona for surveys — train your personal AI profile that takes surveys on your behalf, consistent with your values and preferences. · [Code](https://github.com/joshiujjwal/survey-duplicates)
 
 - **startup-agent** — `Archived` · AI agent co-pilot guiding founders through the full startup lifecycle — ideation, validation, MVP, fundraising, hiring, and growth. · [Code](https://github.com/joshiujjwal/startup-agent)
 
