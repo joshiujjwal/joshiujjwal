@@ -29,7 +29,6 @@ Project stages are based on the current repository source and published homepage
 - **installforge** — `Prototype` · A marketplace of curated install recipes + a skill-agent that installs and verifies any product on any device. · [Code](https://github.com/joshiujjwal/installforge)
 - **myfintrack** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/myfintrack)
 - **playbot** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/playbot)
-- **solutions_leetcode** — `Prototype` · Leetcode Problem Solutions · [Code](https://github.com/joshiujjwal/solutions_leetcode)
 - **tripCabShareMode** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/tripCabShareMode)
 - **Twttrnds** — `Prototype` · Get latest Twitter Trends and visualize it's results via Google Map & d3.js. Added markers on Google map to show top 10 places for Twitter Trends. Extract tweets for nearest/closest trending place to point where maker on Google Map is dragged. Depict d3.js chart to show the number of locations that Twitter has trending topic information for in respective countries. Return suggestions and relevant tweets on top trends. · [Code](https://github.com/joshiujjwal/Twttrnds)
 - **voiceui** — `Prototype` · 🎙️ Voice AI to UI design — speak your UI, get live React component previews · [Code](https://github.com/joshiujjwal/voiceui)
@@ -73,6 +72,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **solutions_leetcode** — `Archived` · Leetcode Problem Solutions · [Code](https://github.com/joshiujjwal/solutions_leetcode)
 
 - **social-researcher** — `Archived` · Research tool that aggregates and synthesizes responses, discussions, and opinions on any topic across social channels (Reddit, Twitter/X, LinkedIn, HackerNews) · [Code](https://github.com/joshiujjwal/social-researcher)
 
