@@ -52,7 +52,6 @@ Project stages are based on the current repository source and published homepage
 - **codestories** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/codestories)
 - **event-curator-ai** — `Idea` · AI-powered IRL event aggregation and personalized discovery platform · [Code](https://github.com/joshiujjwal/event-curator-ai)
 - **fde-resources** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/fde-resources)
-- **feature-blocks** — `Idea` · Drag-and-drop UI builder for composing landing page / marketing feature sections visually · [Code](https://github.com/joshiujjwal/feature-blocks)
 - **fintrack** — `Idea` · Personal finance tracking app — connect bank accounts, categorize transactions with AI, track budgets, and get GPT-4o-powered financial insights · [Code](https://github.com/joshiujjwal/fintrack)
 - **grocTrac** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/grocTrac)
 - **optionstrat** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/optionstrat)
@@ -64,6 +63,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **feature-blocks** — `Archived` · Drag-and-drop UI builder for composing landing page / marketing feature sections visually · [Code](https://github.com/joshiujjwal/feature-blocks)
 
 - **YourNextWatch** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/YourNextWatch)
 
