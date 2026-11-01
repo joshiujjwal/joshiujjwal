@@ -59,7 +59,6 @@ Project stages are based on the current repository source and published homepage
 ### Idea
 
 - **anonymous-feedback** — `Idea` · Get work-like feedback in social settings — 3 positive + 1 negative from people you know · [Code](https://github.com/joshiujjwal/anonymous-feedback)
-- **apis-for-llm** — `Idea` · Unified API gateway/abstraction layer for LLM providers (OpenAI, Anthropic, Gemini) with routing, rate limiting, and cost tracking · [Code](https://github.com/joshiujjwal/apis-for-llm)
 - **auto-ai** — `Idea` · AI-powered mobile mechanic — diagnose car problems, decode OBD codes, analyze damage photos, and track maintenance using GPT-4o · [Code](https://github.com/joshiujjwal/auto-ai)
 - **canibuythis** — `Idea` · Financial calc that answers 'can I buy this today?' based on budget goals, spending velocity, and upcoming obligations · [Code](https://github.com/joshiujjwal/canibuythis)
 - **chiefofstaff-os** — `Idea` · Personal life operating system — tracks relationships, goals, tasks, and life areas like a CRM but for your personal life. · [Code](https://github.com/joshiujjwal/chiefofstaff-os)
@@ -89,6 +88,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **apis-for-llm** — `Archived` · Unified API gateway/abstraction layer for LLM providers (OpenAI, Anthropic, Gemini) with routing, rate limiting, and cost tracking · [Code](https://github.com/joshiujjwal/apis-for-llm)
 
 - **ai-chat-to-kanban** — `Archived` · Turn AI chat exports into reviewed ideas on GitHub Projects. · [Code](https://github.com/joshiujjwal/ai-chat-to-kanban)
 
