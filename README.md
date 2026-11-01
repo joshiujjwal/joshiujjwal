@@ -89,6 +89,8 @@ Project stages are based on the current repository source and published homepage
 
 ### Archived
 
+- **cli-setup-mastery** — `Archived` · AI-assisted coding workflow research and idea2proj project-scaffolding agent. · [Code](https://github.com/joshiujjwal/cli-setup-mastery)
+
 - **apis-for-llm** — `Archived` · Unified API gateway/abstraction layer for LLM providers (OpenAI, Anthropic, Gemini) with routing, rate limiting, and cost tracking · [Code](https://github.com/joshiujjwal/apis-for-llm)
 
 - **ai-chat-to-kanban** — `Archived` · Turn AI chat exports into reviewed ideas on GitHub Projects. · [Code](https://github.com/joshiujjwal/ai-chat-to-kanban)
