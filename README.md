@@ -24,7 +24,6 @@ Project stages are based on the current repository source and published homepage
 - **adresearchai** — `Prototype` · AI tool that reverse-engineers advertisements — analyzing persuasion techniques, target demographics, emotional triggers, brand positioning, and messaging strategy · [Code](https://github.com/joshiujjwal/adresearchai)
 - **aeofixer** — `Prototype` · AEO optimiser for AI-powered browsers — optimizes content for Perplexity, ChatGPT Browse, Google SGE · [Code](https://github.com/joshiujjwal/aeofixer)
 - **ai-visa-agent** — `Prototype` · AI agent that guides users through the visa application process — country requirements, document checklists, form filling, timeline tracking, and status updates. · [Code](https://github.com/joshiujjwal/ai-visa-agent)
-- **aipen** — `Prototype` · AI pen handwriting converter — companion app + cloud OCR/ML inference · [Code](https://github.com/joshiujjwal/aipen)
 - **concept2scene** — `Prototype` · Turn abstract concepts and ideas into full cinematic movie scene scripts using LLMs · [Code](https://github.com/joshiujjwal/concept2scene)
 - **discussAICall** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/discussAICall)
 - **EventsCuratorAI** — `Prototype` · Aggregates events from Eventbrite, Meetup & more — uses GPT-4o to curate personalized recommendations based on user interests, location, and social graph · [Code](https://github.com/joshiujjwal/EventsCuratorAI)
