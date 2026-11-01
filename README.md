@@ -26,7 +26,6 @@ Project stages are based on the current repository source and published homepage
 - **discussAICall** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/discussAICall)
 - **EventsCuratorAI** — `Prototype` · Aggregates events from Eventbrite, Meetup & more — uses GPT-4o to curate personalized recommendations based on user interests, location, and social graph · [Code](https://github.com/joshiujjwal/EventsCuratorAI)
 - **harami-parrots** — `Prototype` · Teen harami toton ka society pe sarcastic nazar. Research-driven satirical Hinglish podcast. · [Code](https://github.com/joshiujjwal/harami-parrots)
-- **HelpingHand** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/HelpingHand)
 - **installforge** — `Prototype` · A marketplace of curated install recipes + a skill-agent that installs and verifies any product on any device. · [Code](https://github.com/joshiujjwal/installforge)
 - **lab37hw** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/lab37hw)
 - **myfintrack** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/myfintrack)
@@ -85,6 +84,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **HelpingHand** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/HelpingHand)
 
 - **fde-sf** — `Archived` · Documentation-only Salesforce FDE preparation pack.
 
