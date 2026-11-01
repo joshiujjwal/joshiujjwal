@@ -64,7 +64,6 @@ Project stages are based on the current repository source and published homepage
 - **fintrack** — `Idea` · Personal finance tracking app — connect bank accounts, categorize transactions with AI, track budgets, and get GPT-4o-powered financial insights · [Code](https://github.com/joshiujjwal/fintrack)
 - **grocTrac** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/grocTrac)
 - **optionstrat** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/optionstrat)
-- **prompt-version-history** — `Idea` · Git-like version control for AI prompts and their LLM responses · [Code](https://github.com/joshiujjwal/prompt-version-history)
 - **researchpan** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/researchpan)
 - **reverse-yocket** — `Idea` · Consultancy platform for Indian-origin professionals moving back to India from the US · [Code](https://github.com/joshiujjwal/reverse-yocket)
 - **robo-part-discover** — `Idea` · bolt.new for robotics — describe your robot, get BOM, firmware, wiring diagrams, and software stack · [Code](https://github.com/joshiujjwal/robo-part-discover)
@@ -76,6 +75,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **prompt-version-history** — `Archived` · Git-like version control for AI prompts and their LLM responses · [Code](https://github.com/joshiujjwal/prompt-version-history)
 
 - **pitch2pm** — `Archived` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
 
