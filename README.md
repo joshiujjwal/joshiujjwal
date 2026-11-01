@@ -28,7 +28,6 @@ Project stages are based on the current repository source and published homepage
 - **harami-parrots** — `Prototype` · Teen harami toton ka society pe sarcastic nazar. Research-driven satirical Hinglish podcast. · [Code](https://github.com/joshiujjwal/harami-parrots)
 - **installforge** — `Prototype` · A marketplace of curated install recipes + a skill-agent that installs and verifies any product on any device. · [Code](https://github.com/joshiujjwal/installforge)
 - **myfintrack** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/myfintrack)
-- **oned** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/oned)
 - **own-prompt-enhancer** — `Prototype` · SLM layer to improve prompts before passing to larger LLMs · [Code](https://github.com/joshiujjwal/own-prompt-enhancer)
 - **playbot** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/playbot)
 - **solutions_leetcode** — `Prototype` · Leetcode Problem Solutions · [Code](https://github.com/joshiujjwal/solutions_leetcode)
