@@ -64,7 +64,6 @@ Project stages are based on the current repository source and published homepage
 - **fintrack** — `Idea` · Personal finance tracking app — connect bank accounts, categorize transactions with AI, track budgets, and get GPT-4o-powered financial insights · [Code](https://github.com/joshiujjwal/fintrack)
 - **grocTrac** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/grocTrac)
 - **optionstrat** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/optionstrat)
-- **pitch2pm** — `Idea` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
 - **prompt-version-history** — `Idea` · Git-like version control for AI prompts and their LLM responses · [Code](https://github.com/joshiujjwal/prompt-version-history)
 - **researchpan** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/researchpan)
 - **reverse-yocket** — `Idea` · Consultancy platform for Indian-origin professionals moving back to India from the US · [Code](https://github.com/joshiujjwal/reverse-yocket)
@@ -77,6 +76,8 @@ Project stages are based on the current repository source and published homepage
 - **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
 
 ### Archived
+
+- **pitch2pm** — `Archived` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
 
 - **own-prompt-enhancer** — `Archived` · SLM layer to improve prompts before passing to larger LLMs · [Code](https://github.com/joshiujjwal/own-prompt-enhancer)
 
