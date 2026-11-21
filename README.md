@@ -1,110 +1,22 @@
 # Ujjwal Joshi
 
-## Projects
+Building! Tinkering! Learning!
 
-Project stages are based on the current repository source and published homepage signals.
+## Live Projects
 
-### Live
+Published apps and sites. Proposal pages are labeled as ideas, not implemented systems.
 
-- **[mcu-graph](https://mcu-graph.vercel.app)** — `Live` · Interactive force-directed graph of the Marvel Cinematic Universe — characters, films, teams, and powers. · [Code](https://github.com/joshiujjwal/mcu-graph)
-- **[mywebsite](https://joshiujwal.github.io/mywebsite/)** — `Live` · Personal project portfolio. · [Code](https://github.com/joshiujjwal/mywebsite)
-- **[Placard](https://placard-liart.vercel.app/)** — `Live` · AI-powered virtual closet with personalized outfit suggestions. · [Code](https://github.com/joshiujjwal/placard)
-- **[podcast-guest-graph](https://podcast-guest-graph.vercel.app)** — `Live` · Interactive graph of podcast guest and host appearances across shows. · [Code](https://github.com/joshiujjwal/podcast-guest-graph)
-- **Stepwins** — `Live` · Private, offline goal planning with time-boxed steps. Available in TestFlight; contact me for a demo. · [Code](https://github.com/joshiujjwal/stepwise)
-- **[Toolbook](https://joshiujwal.github.io/toolbook)** — `Live` · See the software a public company uses by department, with confirmed and inferred data tagging. · [Code](https://github.com/joshiujjwal/toolbook)
-- **[VerifyU](https://verifyu-jade.vercel.app/)** — `Live` · Human identity verification with one-time codes. · [Code](https://github.com/joshiujjwal/verifyu)
-- **[YourNxtWatch](https://yournxtwatch.vercel.app/)** — `Live` · Swipe through movies with friends and decide what to watch next. · [Code](https://github.com/joshiujjwal/yournxtwatch)
-- **[YTChannelTrust](https://ytchanneltrust.vercel.app/)** — `Live` · YouTube-channel trust score and reviews. · [Code](https://github.com/joshiujjwal/ytchanneltrust)
-
-### Prototype
-
-- **adresearchai** — `Prototype` · AI tool that reverse-engineers advertisements — analyzing persuasion techniques, target demographics, emotional triggers, brand positioning, and messaging strategy · [Code](https://github.com/joshiujjwal/adresearchai)
-- **aeofixer** — `Prototype` · AEO optimiser for AI-powered browsers — optimizes content for Perplexity, ChatGPT Browse, Google SGE · [Code](https://github.com/joshiujjwal/aeofixer)
-- **ai-visa-agent** — `Prototype` · AI agent that guides users through the visa application process — country requirements, document checklists, form filling, timeline tracking, and status updates. · [Code](https://github.com/joshiujjwal/ai-visa-agent)
-- **concept2scene** — `Prototype` · Turn abstract concepts and ideas into full cinematic movie scene scripts using LLMs · [Code](https://github.com/joshiujjwal/concept2scene)
-- **discussAICall** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/discussAICall)
-- **EventsCuratorAI** — `Prototype` · Aggregates events from Eventbrite, Meetup & more — uses GPT-4o to curate personalized recommendations based on user interests, location, and social graph · [Code](https://github.com/joshiujjwal/EventsCuratorAI)
-- **harami-parrots** — `Prototype` · Teen harami toton ka society pe sarcastic nazar. Research-driven satirical Hinglish podcast. · [Code](https://github.com/joshiujjwal/harami-parrots)
-- **installforge** — `Prototype` · A marketplace of curated install recipes + a skill-agent that installs and verifies any product on any device. · [Code](https://github.com/joshiujjwal/installforge)
-- **myfintrack** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/myfintrack)
-- **playbot** — `Prototype` · No repository description provided. · [Code](https://github.com/joshiujjwal/playbot)
-
-### Design
-
-- **agent-experiment-infra** — `Design` · Azure VM experiment lab (Bicep + cloud-init) for running Nous Hermes via Ollama and the OpenClaw agent framework · [Code](https://github.com/joshiujjwal/agent-experiment-infra)
-- **arthlabs** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/arthlabs)
-- **autoshorts** — `Design` · Auto-generate short clips from YouTube videos using emotion and knowledge density scoring · [Code](https://github.com/joshiujjwal/autoshorts)
-- **devstack** — `Design` · No repository description provided. · [Code](https://github.com/joshiujjwal/devstack)
-- **DigitalAILabIndia** — `Design` · Digital AI Lab for India — AI research and experimentation platform for Indian languages, datasets, and model fine-tuning · [Code](https://github.com/joshiujjwal/DigitalAILabIndia)
-- **netflix-character-game** — `Design` · Interactive trivia/guessing game featuring characters from popular movies and TV shows — AI-generated questions, adaptive difficulty, TMDB content · [Code](https://github.com/joshiujjwal/netflix-character-game)
-- **vibeinfra** — `Design` · Agentic multi-cloud deployment composer: bring any code, get it deployed reliably with deny-by-default policy guardrails · [Code](https://github.com/joshiujjwal/vibeinfra)
-
-### Idea
-
-- **anonymous-feedback** — `Idea` · Get work-like feedback in social settings — 3 positive + 1 negative from people you know · [Code](https://github.com/joshiujjwal/anonymous-feedback)
-- **auto-ai** — `Idea` · AI-powered mobile mechanic — diagnose car problems, decode OBD codes, analyze damage photos, and track maintenance using GPT-4o · [Code](https://github.com/joshiujjwal/auto-ai)
-- **canibuythis** — `Idea` · Financial calc that answers 'can I buy this today?' based on budget goals, spending velocity, and upcoming obligations · [Code](https://github.com/joshiujjwal/canibuythis)
-- **chiefofstaff-os** — `Idea` · Personal life operating system — tracks relationships, goals, tasks, and life areas like a CRM but for your personal life. · [Code](https://github.com/joshiujjwal/chiefofstaff-os)
-- **claudevoiceboard** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/claudevoiceboard)
-- **clips-shows** — `Idea` · Topic-specific inspiration clips from TV shows · [Code](https://github.com/joshiujjwal/clips-shows)
-- **code-stories** — `Idea` · Short-form video stories for learning Leetcode and DSA — like TikTok for algorithms · [Code](https://github.com/joshiujjwal/code-stories)
-- **codestories** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/codestories)
-- **event-curator-ai** — `Idea` · AI-powered IRL event aggregation and personalized discovery platform · [Code](https://github.com/joshiujjwal/event-curator-ai)
-- **fde-resources** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/fde-resources)
-- **fintrack** — `Idea` · Personal finance tracking app — connect bank accounts, categorize transactions with AI, track budgets, and get GPT-4o-powered financial insights · [Code](https://github.com/joshiujjwal/fintrack)
-- **grocTrac** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/grocTrac)
-- **optionstrat** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/optionstrat)
-- **researchpan** — `Idea` · No repository description provided. · [Code](https://github.com/joshiujjwal/researchpan)
-- **reverse-yocket** — `Idea` · Consultancy platform for Indian-origin professionals moving back to India from the US · [Code](https://github.com/joshiujjwal/reverse-yocket)
-- **robo-part-discover** — `Idea` · bolt.new for robotics — describe your robot, get BOM, firmware, wiring diagrams, and software stack · [Code](https://github.com/joshiujjwal/robo-part-discover)
-- **sdlc-skills-plus** — `Idea` · Composable, model-agnostic SDLC skills & agents for Claude Code and GitHub Copilot CLI: grill, domain-model, PRD, issues, TDD, debug, design, prototype, review, security, triage, release. · [Code](https://github.com/joshiujjwal/sdlc-skills-plus)
-- **serious-game-team-dynamics** — `Idea` · Browser-based facilitated workshop tool for surfacing and improving team dynamics through serious game mechanics · [Code](https://github.com/joshiujjwal/serious-game-team-dynamics)
-- **wellplanned** — `Idea` · Plan your day differently and see into the future — AI calendar manager with math-based scheduling · [Code](https://github.com/joshiujjwal/wellplanned)
-
-### Archived
-
-- **Twttrnds** — `Archived` · Get latest Twitter Trends and visualize it's results via Google Map & d3.js. Added markers on Google map to show top 10 places for Twitter Trends. Extract tweets for nearest/closest trending place to point where maker on Google Map is dragged. Depict d3.js chart to show the number of locations that Twitter has trending topic information for in respective countries. Return suggestions and relevant tweets on top trends. · [Code](https://github.com/joshiujjwal/Twttrnds)
-
-
-
-
-
-- **tripCabShareMode** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/tripCabShareMode)
-
-- **transit-tracker** — `Archived` · Vercel-hosted live transit display (NJ Transit, PATH, MTA, Amtrak) with TV/kiosk mode and Raspberry Pi LED map · [Code](https://github.com/joshiujjwal/transit-tracker)
-
-- **survey-duplicates** — `Archived` · AI persona for surveys — train your personal AI profile that takes surveys on your behalf, consistent with your values and preferences. · [Code](https://github.com/joshiujjwal/survey-duplicates)
-
-- **startup-agent** — `Archived` · AI agent co-pilot guiding founders through the full startup lifecycle — ideation, validation, MVP, fundraising, hiring, and growth. · [Code](https://github.com/joshiujjwal/startup-agent)
-
-- **solutions_leetcode** — `Archived` · Leetcode Problem Solutions · [Code](https://github.com/joshiujjwal/solutions_leetcode)
-
-- **social-researcher** — `Archived` · Research tool that aggregates and synthesizes responses, discussions, and opinions on any topic across social channels (Reddit, Twitter/X, LinkedIn, HackerNews) · [Code](https://github.com/joshiujjwal/social-researcher)
-
-- **simnearby** — `Archived` · Record a city video and generate interactive 3D what-if urban planning scenarios with VR · [Code](https://github.com/joshiujjwal/simnearby)
-
-
-- **pitch2pm** — `Archived` · Bug-bounty-style idea marketplace — connect entrepreneurs and innovators directly with product decision makers at top companies · [Code](https://github.com/joshiujjwal/pitch2pm)
-
-
-- **one-pager-research** — `Archived` · AI-powered tool that generates clean, structured one-page research summaries from any topic, paper, URL, or document via GPT-4o · [Code](https://github.com/joshiujjwal/one-pager-research)
-
-- **mini-games-learning** — `Archived` · AI-powered mini games platform for educational learning — GPT-4o generates quizzes, word puzzles, matching games, flashcards, and true/false blitzes from any topic · [Code](https://github.com/joshiujjwal/mini-games-learning)
-
-- **lab37hw** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/lab37hw)
-
-- **IntegratedImageSearch** — `Archived` · A Google Extension that enables you to search images from various search engines like Flickr , Getty , Bing. Get relevant images for a topic from different search portals with just one click. Explore wide range of images from Bing/Flickr/Getty Use of Javascript to filter the best customized results. · [Code](https://github.com/joshiujjwal/IntegratedImageSearch)
-
-- **HelpingHand** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/HelpingHand)
-
-- **fde-sf** — `Archived` · Documentation-only Salesforce FDE preparation pack.
-
-- **[drawARExpress](https://draw-ar-express.vercel.app)** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawARExpress)
-
-- **[drawAR](https://draw-ar.vercel.app)** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/drawAR)
-
-- **cli-setup-mastery** — `Archived` · AI-assisted coding workflow research and idea2proj project-scaffolding agent.
-
-
-
-- **2Bnot2B** — `Archived` · No repository description provided. · [Code](https://github.com/joshiujjwal/2Bnot2B)
+- **[Caption Transit](https://joshiujjwal.github.io/caption-transit/)** — `Idea` · An independent proposal for readable transit announcements alongside audio. · [Code](https://github.com/joshiujjwal/caption-transit)
+- **[Home Trash Future](https://joshiujjwal.github.io/home-trash-future/)** — `Open question` · Exploring household waste, habits, infrastructure, and where AI or robotics might help—not a proposed solution. · [Code](https://github.com/joshiujjwal/home-trash-future)
+- **[Topic Immersion](https://joshiujjwal.github.io/topic-immersion/)** — `Learning guide` · Learn subjects from the ground up with curated books, videos, courses, podcasts, and communities. · [Code](https://github.com/joshiujjwal/topic-immersion)
+- **[NJ Knowledge Test Practice](https://joshiujjwal.github.io/njdmv/)** — `Study app` · Manual-based questions, explanations, and mock exams for the New Jersey driving knowledge test. · [Code](https://github.com/joshiujjwal/njdmv)
+- **[Berkshire Letter Explorer](https://joshiujjwal.github.io/berkshire-letter-explorer/)** — `Research tool` · Shareholder-letter summaries, lessons, and a sourced Berkshire Hathaway vs. S&P 500 return comparison. · [Code](https://github.com/joshiujjwal/berkshire-letter-explorer)
+- **[MCU Graph](https://mcu-graph.vercel.app/)** — `Interactive graph` · Explore Marvel Cinematic Universe characters, films, teams, and powers. · [Code](https://github.com/joshiujjwal/mcu-graph)
+- **[Podcast Guest Graph](https://podcast-guest-graph.vercel.app/)** — `Interactive graph` · Explore podcast guest and host appearances across shows. · [Code](https://github.com/joshiujjwal/podcast-guest-graph)
+- **[Toolbook](https://joshiujjwal.github.io/toolbook/)** — `Research tool` · See the software a public company uses by department, with confirmed and inferred data clearly marked. · [Code](https://github.com/joshiujjwal/toolbook)
+- **Stepwins** — `Productivity app` · Private, offline goal planning with time-boxed steps. Available in TestFlight; contact me for a demo. · [Code](https://github.com/joshiujjwal/stepwise)
+- **[YTChannelTrust](https://ytchanneltrust.vercel.app/)** — `Trust tool` · YouTube-channel trust scores; reviews coming soon. · [Code](https://github.com/joshiujjwal/ytchanneltrust)
+- **[VerifyU](https://verifyu-jade.vercel.app/)** — `Web app` · Human identity verification with one-time codes. · [Code](https://github.com/joshiujjwal/verifyu)
+- **[YourNxtWatch](https://yournxtwatch.vercel.app/)** — `Social app` · Swipe through movies with friends and decide what to watch next. · [Code](https://github.com/joshiujjwal/yournxtwatch)
+- **[Placard](https://placard-liart.vercel.app/)** — `AI app` · A virtual closet with personalized outfit suggestions. · [Code](https://github.com/joshiujjwal/placard)
+- **[My Website](https://ujjwaljoshi.com/)** — `Portfolio` · My projects and social links. · [Code](https://github.com/joshiujjwal/mywebsite)
