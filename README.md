@@ -6,6 +6,7 @@ Building! Tinkering! Learning!
 
 Published apps and sites. Proposal pages are labeled as ideas, not implemented systems.
 
+- **[CodeStories](https://codestories-eight.vercel.app/)** — `Learning app` · Learn algorithms with animated walkthroughs, prediction questions, and recall practice. Progress and review dates stay in your browser. · [Code](https://github.com/joshiujjwal/codestories)
 - **[Caption Transit](https://joshiujjwal.github.io/caption-transit/)** — `Idea` · An independent proposal for readable transit announcements alongside audio. · [Code](https://github.com/joshiujjwal/caption-transit)
 - **[Home Trash Future](https://joshiujjwal.github.io/home-trash-future/)** — `Open question` · Exploring household waste, habits, infrastructure, and where AI or robotics might help—not a proposed solution. · [Code](https://github.com/joshiujjwal/home-trash-future)
 - **[Topic Immersion](https://joshiujjwal.github.io/topic-immersion/)** — `Learning guide` · Learn subjects from the ground up with curated books, videos, courses, podcasts, and communities. · [Code](https://github.com/joshiujjwal/topic-immersion)
